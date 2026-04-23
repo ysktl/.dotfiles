@@ -72,7 +72,7 @@ eval "$(mise activate zsh)"
 export PATH="$HOME/.local/share/coursier/bin:$PATH"
 
 # JDK
-export JAVA_HOME=/usr/lib/jvm/temurin-25-jdk
+export JAVA_HOME=/usr/lib/jvm/temurin-25-jdk-amd64
 
 # opencode
 export PATH=/home/ysktl/.opencode/bin:$PATH
