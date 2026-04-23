@@ -9,6 +9,7 @@ cd "$DOTFILES_DIR"
 # find で対象を列挙
 find . -mindepth 1 \
   ! -path "./deploy.sh" \
+  ! -path "./README.md" \
   ! -path "./nix" \
   ! -path "./nix/*" \
   | while read -r path; do

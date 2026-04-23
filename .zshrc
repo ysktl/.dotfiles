@@ -111,3 +111,4 @@ eval "$(starship init zsh)"
 fpath=("/home/ysktl/.local/share/scalacli/completions/zsh" $fpath)
 compinit
 # <<< scala-cli completions <<<
+### End of Zinit's installer chunk
