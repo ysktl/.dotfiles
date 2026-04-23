@@ -5,7 +5,7 @@
 > [!CAUTION]
 > This is Debian-base installation
 
-1. `sudo apt install curl wget git gh vim zsh xz-utils`
+1. `sudo apt install curl wget git gh vim zsh xz-utils libatomic1 make cmake`
 2. `git clone https://github.com/ysktl/.dotfiles.git`
 3. `./deploy.sh`
 4. Obey me `./nix/README.md`
@@ -15,6 +15,7 @@
 8. reboot
 9. `rustup default nightly`
 10. `git clone https://github.com/ysktl/nvim-env.git ~/.config/nvim/`
+11. `mise use -g node npm yarn pnpm bun deno python`
 
 DONE
 
