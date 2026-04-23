@@ -10,14 +10,8 @@
     gawk
     fzf
     ripgrep
-    git
-    gh
-    vim
     neovim
     lazygit
-    zsh
-    zinit
-    starship
     yazi
     zellij
     rustup
