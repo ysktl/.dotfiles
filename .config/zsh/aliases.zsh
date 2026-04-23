@@ -1,0 +1,13 @@
+alias ll='ls -l'
+alias la='ls -a'
+alias vi='vim'
+alias nv='nvim'
+alias y='yazi'
+alias zz='zellij'
+alias g='git'
+alias lg='lazygit'
+alias sc='scala-cli'
+alias p='podman'
+alias pc-'podman-compose'
+alias oc='opencode'
+
