@@ -5,7 +5,7 @@
 > [!CAUTION]
 > This is Debian-base installation
 
-1. `sudo apt install curl wget git gh vim zsh xz-utils libatomic1 make cmake keychain`
+1. `sudo apt install curl wget git gh vim zsh xz-utils libatomic1 make cmake keychain uidmap`
 2. `git clone https://github.com/ysktl/.dotfiles.git`
 3. Running `./deploy.sh`
 4. (Option) Install Nix Package Manager: [./nix/README.md](./nix/README.md)
