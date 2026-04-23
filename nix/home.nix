@@ -23,6 +23,7 @@
     ansible
     opentofu
     podman
+    podman-compose
     go-task
     nerd-fonts.go-mono
     nerd-fonts.hack
