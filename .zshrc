@@ -71,6 +71,9 @@ eval "$(mise activate zsh)"
 # Coursier (Scala)
 export PATH="$HOME/.local/share/coursier/bin:$PATH"
 
+# JDK
+export JAVA_HOME="/usr/lib/jvm/temurin-25-jdk:$PATH"
+
 # opencode
 export PATH=/home/ysktl/.opencode/bin:$PATH
 
